@@ -1,2 +1,3 @@
 # README #
-This is git tutorial as per Launch School | A Guide to Git and Github.
+This is a git tutorial and guidance as per Launch School | A Guide to Git and Github.
+
